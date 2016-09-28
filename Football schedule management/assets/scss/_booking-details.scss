@@ -1,0 +1,30 @@
+.grounds{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 650px;
+  position: absolute;
+  left: 0px;
+}
+.groundAvailable{
+  margin-left: 0px;
+}
+.template{
+  width:300px;
+  height:120px;
+  margin-left: 2px;
+  margin-top: 2px;
+  border: 1px solid gray;
+  p{
+    color:gray;
+  }
+}
+
+  i.fa{
+  padding-left: 10px;
+  padding-top: 4px;
+  }
+.imageMap{
+  position:absolute;
+  left: 0px;
+  top:0px;
+}
